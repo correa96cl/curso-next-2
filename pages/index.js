@@ -1,9 +1,7 @@
 import Link from "next/link"
 
 function HomePage() {
-    return (
-    
-    
+    return (    
     <div>Welcome to Next.js!
 
         <img src="/images/avatar.jpeg"/>
@@ -11,8 +9,8 @@ function HomePage() {
 <ul>
             <li>
             <Link href="/">
-                <a> Ir para home
-                    
+                <a> Ir para home 2
+
                 </a></Link>
             </li>
            </ul>
