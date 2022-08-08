@@ -6,6 +6,9 @@ function HomePage() {
     
     <div>Welcome to Next.js! ajjajajajajajaj
 
+
+        
+
         <img src="/images/avatar.jpeg"/>
 
 <ul>
