@@ -11,8 +11,8 @@ function HomePage() {
 <ul>
             <li>
             <Link href="/">
-                <a> Ir para home
-                    
+                <a> Ir para home 2
+
                 </a></Link>
             </li>
            </ul>
