@@ -1,11 +1,8 @@
 import Link from "next/link"
 
 function HomePage() {
-    return (
-    
-    
-    <div>Welcome to Next.js! ajjajajajajajajdghjsghjdsghjadghjdghjdghjk
-
+    return (    
+    <div>Welcome to Next.js!
 
         <img src="/images/avatar.jpeg"/>
 
