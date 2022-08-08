@@ -4,7 +4,7 @@ function HomePage() {
     return (
     
     
-    <div>Welcome to Next.js!
+    <div>Welcome to Next.js! ajjajajajajajaj
 
         <img src="/images/avatar.jpeg"/>
 
